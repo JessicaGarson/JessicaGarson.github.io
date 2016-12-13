@@ -7,7 +7,7 @@ google_analytics:
 
 # SEO settings
 title: "Jessica Garson"
-description: "DC based Devoloper and Tech Inclusion Advocate."
+description: "DC Based Developer and Tech Inclusion Advocate."
 url: ""
 twitter_username: "JessicaGarson"
 default_img: https://s27.postimg.org/3oqp7fl2r/Screen_Shot_2016_12_13_at_2_51_17_PM.png
@@ -16,8 +16,10 @@ default_img: https://s27.postimg.org/3oqp7fl2r/Screen_Shot_2016_12_13_at_2_51_17
 name: "Jessica Garson"
 profile_img: https://s27.postimg.org/3oqp7fl2r/Screen_Shot_2016_12_13_at_2_51_17_PM.png
 profile: "Jessica lives in Washington DC. She's the co-organizer of The Tech Lady Hackathon and Hack && Tell DC"
-social: www.twitter.com/JessicaGarson
-github: www.github.com/JessicaGarson
+social:
+  github: http://www.github.com/JessicaGarson
+  twitter: http://www.twitter.com/JessicaGarson
+  instagram: http://www.instagram.com/JessGarson
 
 # Build settings
 include: ["_categories"]
