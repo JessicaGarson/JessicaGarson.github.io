@@ -3,7 +3,7 @@ layout: post
 title: "What's My Function #3"
 date: 2016-12-12
 categories:
-  - Zine
+  - zine
 description:
 image: https://s24.postimg.org/sg6a0ffol/Screen_Shot_2016_12_13_at_3_22_35_PM.png
 image-sm: https://s24.postimg.org/sg6a0ffol/Screen_Shot_2016_12_13_at_3_22_35_PM.png
