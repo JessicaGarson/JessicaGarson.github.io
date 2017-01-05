@@ -3,7 +3,6 @@ layout: post
 title: "Article about What's my Function in Technical.ly"
 date: 2017-1-5
 categories:
-  - zine
   - press
 description:
 image: https://s27.postimg.org/qaa218d0z/Screen_Shot_2017_01_05_at_3_45_01_PM_1.png
