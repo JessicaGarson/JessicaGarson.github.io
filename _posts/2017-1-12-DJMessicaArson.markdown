@@ -3,7 +3,6 @@ layout: post
 title: "DJ Messica Arson"
 date: 2017-1-12
 categories:
-  - hack and tell
 description:
 image: https://s28.postimg.org/lw0z7o79p/Screen_Shot_2017_01_12_at_3_39_57_PM.png
 image-sm: https://s28.postimg.org/lw0z7o79p/Screen_Shot_2017_01_12_at_3_39_57_PM.png
