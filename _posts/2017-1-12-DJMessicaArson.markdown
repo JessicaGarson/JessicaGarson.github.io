@@ -26,6 +26,7 @@ live_loop :add_in do
 end
 ```
 After that I was able to add more loops and buffers to create a start for tonight's set. A fun synth sound I wrote was as follows:
+
 ```ruby
 live_loop :create do
   synth :dark_ambience
@@ -34,4 +35,5 @@ live_loop :create do
   sleep 4
 end
 ```
+
 The full code for tonight's set can be found [here on my github](https://github.com/JessicaGarson/JessicaGarson.github.io).
