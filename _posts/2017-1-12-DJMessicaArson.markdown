@@ -36,4 +36,4 @@ live_loop :create do
 end
 ```
 
-The full code for tonight's set can be found [here on my github](https://github.com/JessicaGarson/JessicaGarson.github.io).
+The full code for tonight's set can be found [here on my github](https://github.com/JessicaGarson/DJMessicaArson).
