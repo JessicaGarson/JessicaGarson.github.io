@@ -15,7 +15,10 @@ default_img:
 # Profile settings
 name: "Jessica Garson"
 profile_img: https://s27.postimg.org/3oqp7fl2r/Screen_Shot_2016_12_13_at_2_51_17_PM.png
-profile: "Jessica lives in Washington DC. She's the co-organizer of The Tech Lady Hackathon and Hack && Tell DC."
+profile: "Jessica lives in Brooklyn, NY. 
+Jessica Garson is the organizer of the Tech Lady Hackathon, and previously the organizer of Hack && Tell DC. She is a frequent teacher at DC's Hear Me Code, beginner friendly classes for women by women. She also has ran programming classes at DC area public libraries. In the fall semester of 2017, she will be teaching an advanced python class at NYU. Jessica also runs a self-published programming magazine called What's my Function. In 2015, she was named by DC FemTech as one of the most powerful Women in Tech. In 2017, one of her projects nominateher.org got named best web/mobile product of the year by technical.ly magazine. 
+
+Previously she’s worked at ISL, Burson-Marstellar, The National Education Association, ISSI Data, and Salsa Labs. Before working in technology, Jessica worked on numerous campaigns throughout the country and got her degree in Political Science at the University of Hartford."
 social:
   github: http://www.github.com/JessicaGarson
   twitter: http://www.twitter.com/JessicaGarson
